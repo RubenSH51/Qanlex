@@ -38,7 +38,6 @@ Un programa desarrollado en Python para gestionar expedientes legales, incluyend
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/RubenSH51/Qanlex.git
-   cd sistema-gestion-expedientes
 2. Instala [Python](https://www.python.org/downloads/) si aún no lo tienes desde la web oficial.
 3. Ejecuta el script para crear la base de datos. create_db.py
 4. Ejecuta el programa:  python main.py
