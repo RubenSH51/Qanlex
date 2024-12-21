@@ -39,8 +39,8 @@ Un programa desarrollado en Python para gestionar expedientes legales, incluyend
    ```bash
    git clone https://github.com/RubenSH51/Qanlex.git
 2. Instala [Python](https://www.python.org/downloads/) si aún no lo tienes desde la web oficial.
-3. Ejecuta el script para crear la base de datos. create_db.py
-4. Ejecuta el programa:  python main.py
+3. Ejecuta el script para crear la base de datos: python create_db.py
+4. Corre el programa:  python main.py
 
 
 ## Base de datos
@@ -61,9 +61,5 @@ Luego de haber creado la base de datos con la tabla correspondiente a través de
 Aclaración: El programa hará una pausa en el momento de completar el captcha para que el usuario lo haga manuealmente, luego deberá dirigirse
 a la terminal/consola desde la cual está corriendo el programa para hacer foco sobre la misma y presionar una tecla cualquiera para continuar.
 El programa dará 3 segundos para volver al navegador chrome automatizado para cumplir finalmente su función.
-Juzgado
-Intervinientes (demandados, actores, etc.)
-
-
 
 
